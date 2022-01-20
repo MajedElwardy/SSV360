@@ -6,6 +6,11 @@ In this paper, we introduce the SSV360 dataset containing psychophysical and psy
 
 
 
+## Citation
+
+
+
+## Acknowledgements
 
 
 ## Contact
@@ -16,5 +21,8 @@ Alternatively, contact the authors:
 - Hans-Jürgen Zepernick: hans-jurgen.zepernick@bth.se
 - Yan Hu: yan.hu@bth.se
 
+Please send email in the format as follow:
+
+> * subject: SSV360
 
 
