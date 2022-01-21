@@ -9,7 +9,7 @@ The SSV360 dataset contains the following three main folders:
 
 1- Seated_viewing_ACR_SSV360
 
-	- Contain six sub-folders relating to the data type and the information about the participants:
+	Contain six sub-folders relating to the data type and the information about the participants:
 		1- Data_ACR_MOS
 		2- Data_ACR_HMD
 		3- Data_ACR_EYE
