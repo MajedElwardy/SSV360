@@ -7,8 +7,18 @@ In this paper, we introduce the SSV360 dataset containing psychophysical and psy
 
 
 ## Citation
+To use the SSV360 dataset in published work, please cite us as follows:
 
-
+```
+author  = {Y. Hu and M. Elwardy and Hans-J\"urgen Zepernick},
+title   = {{On the Effect of Standing and Seated Viewing of 360$^{\circ}$ Videos on Subjective Quality Assessment: A Pilot Study}},
+journal = {Computers},
+volume  = {10},
+number  = {6},
+pages   = {80},
+month   = {Jun.},
+year    = {2021}
+```
 
 ## Acknowledgements
 
