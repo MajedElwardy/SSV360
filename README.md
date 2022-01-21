@@ -7,32 +7,34 @@ SSV360 dataset containing psychophysical and psychophysiological data gathered i
 ## Dataset Structure
 The SSV360 dataset contains the following three main folders:
 
-1- Seated_viewing_ACR_SSV360
-
-	Six sub-folders relating to the data type and the information about the participants:
-		1_Data_ACR_MOS
-		2_Data_ACR_HMD
-		3_Data_ACR_EYE
-		4_Data_ACR_GSR
-		5_Data_ACR_SSQ
-		6_Data_ACR_TimeStamp
-		Participants_Information.csv
-
-2- Standing_viewing_ACR_SSV360
-
-	Six sub-folders relating to the data type and the information about the participants:
-		1_Data_ACR_MOS
-		2_Data_ACR_HMD
-		3_Data_ACR_EYE
-		4_Data_ACR_GSR
-		5_Data_ACR_SSQ
-		6_Data_ACR_TimeStamp
-		Participants_Information.csv
-
-3- Coded_scenes
+1- Coded_scenes
 
 	- Information regarding the coded reference videos and corresponding test videos
 	- The instructions for the download link of the 120 videos.
+	
+1- Standing_viewing_ACR_SSV360
+
+	Six sub-folders relating to the data type and the information about the participants:
+		1_Data_ACR_MOS
+		2_Data_ACR_HMD
+		3_Data_ACR_EYE
+		4_Data_ACR_GSR
+		5_Data_ACR_SSQ
+		6_Data_ACR_TimeStamp
+		Participants_Information.csv
+
+2- Seated_viewing_ACR_SSV360
+
+	Six sub-folders relating to the data type and the information about the participants:
+		1_Data_ACR_MOS
+		2_Data_ACR_HMD
+		3_Data_ACR_EYE
+		4_Data_ACR_GSR
+		5_Data_ACR_SSQ
+		6_Data_ACR_TimeStamp
+		Participants_Information.csv
+
+
 
 ## Citation
 To use the SSV360 dataset in published work, please cite the following papers:
