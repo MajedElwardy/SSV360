@@ -9,7 +9,7 @@ The SSV360 dataset contains the following three main folders:
 
 1- Seated_viewing_ACR_SSV360
 
-	Contain six sub-folders relating to the data type and the information about the participants:
+	Six sub-folders relating to the data type and the information about the participants:
 		1- Data_ACR_MOS
 		2- Data_ACR_HMD
 		3- Data_ACR_EYE
@@ -20,7 +20,7 @@ The SSV360 dataset contains the following three main folders:
 
 2- Standing_viewing_ACR_SSV360
 
-	Contain six sub-folders relating to the data type and the information about the participants:
+	Six sub-folders relating to the data type and the information about the participants:
 		1- Data_ACR_MOS
 		2- Data_ACR_HMD
 		3- Data_ACR_EYE
@@ -31,7 +31,8 @@ The SSV360 dataset contains the following three main folders:
 
 3- Coded_scenes
 
-	contains information regarding the coded reference videos and corresponding test videos, and the instructions for the download link of the 120 videos.
+	- Information regarding the coded reference videos and corresponding test videos
+	- The instructions for the download link of the 120 videos.
 
 ## Citation
 To use the SSV360 dataset in published work, please cite the following papers:
