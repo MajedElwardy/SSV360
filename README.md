@@ -16,7 +16,7 @@ The SSV360 dataset contains the following three main folders:
 		4- Data_ACR_GSR
 		5- Data_ACR_SSQ
 		6- Data_ACR_TimeStamp
-		- Participants_Information.csv
+		Participants_Information.csv
 
 2- Standing_viewing_ACR_SSV360
 
