@@ -17,6 +17,14 @@ The SSV360 dataset contains the following three main folders:
 To use the SSV360 dataset in published work, please cite the following papers:
 
 1- SSV360 dataset
+
+
+- Plain Text (MDPI and ACS Style)
+```
+text
+```
+
+- BibTex
 ```
 text
 ```
