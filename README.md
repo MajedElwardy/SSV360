@@ -8,7 +8,9 @@ SSV360 dataset containing psychophysical and psychophysiological data gathered i
 The SSV360 dataset contains the following three main folders:
 
 1- Seated_viewing_ACR_SSV360
+
 2- Standing_viewing_ACR_SSV360
+
 3- Coded_scenes
 
 ## Citation
