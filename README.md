@@ -28,6 +28,9 @@ year    = {2021}
 ```
 
 ## Acknowledgements
+This work was funded in part by The Knowledge Foundation, Sweden, grant number 20170056, [ViaTecH project] (https://a.bth.se/viatech-synergy/).
+
+We thank all volunteers who generously shared their time to participate in the subjective tests. We thank Tobii Pro for their support and providing the HMD with integrated eye-tracker.
 
 
 ## Contact
