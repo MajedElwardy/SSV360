@@ -7,7 +7,7 @@ SSV360 dataset containing psychophysical and psychophysiological data gathered i
 ## Dataset Structure
 The SSV360 dataset contains the following three main folders:
 
-1- Coded_scenes
+1- Test_scenes
 
 	- Information regarding the coded reference videos and corresponding test videos
 	- The instructions for the download link of the 120 videos.
