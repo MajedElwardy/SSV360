@@ -2,18 +2,18 @@
 A Dataset for Standing and Seated Viewing of 360° Videos on Subjective Quality Assessment
 
 ## Abstract
-In this paper, we introduce the SSV360 dataset containing psychophysical and psychophysiological data gathered in a pilot study on the effect of standing and seated viewing of 360 videos on subjective quality assessment. The stimuli were shown to the participants on a head-mounted display for both viewing conditions. The ground truth contained in the SSV360 dataset may support, e.g., benchmarking of immersive media processing algorithms and developing objective perceptual quality metrics.
+SSV360 dataset containing psychophysical and psychophysiological data gathered in a pilot study on the effect of standing and seated viewing of 360 videos on subjective quality assessment. The stimuli were shown to the participants on a head-mounted display for both viewing conditions. The ground truth contained in the SSV360 dataset may support, e.g., benchmarking of immersive media processing algorithms and developing objective perceptual quality metrics.
 
 
 
 ## Citation
 To use the SSV360 dataset in published work, please cite the following papers:
-- SSV360 dataset
+1- SSV360 dataset
 ```
 text
 ```
 
-- MDPI Journal article
+2- MDPI Journal article
 ```
 @article{YAN21,
 author  = {Y. Hu and M. Elwardy and Hans-J\"urgen Zepernick},
