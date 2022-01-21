@@ -22,6 +22,14 @@ text
 ```
 
 2- MDPI Journal article
+
+- Plain Text (MDPI and ACS Style)
+```
+Hu, Y.; Elwardy, M.; Zepernick, H.-J. On the Effect of Standing and Seated Viewing of 360° Videos on Subjective Quality Assessment: A Pilot Study. Computers 2021, 10, 80. https://doi.org/10.3390/computers10060080
+```
+
+
+- BibTex
 ```
 @article{YAN21,
 author  = {Y. Hu and M. Elwardy and Hans-J\"urgen Zepernick},
@@ -34,6 +42,7 @@ month   = {Jun.},
 year    = {2021}
 }
 ```
+
 
 ## Acknowledgements
 This work was funded in part by The Knowledge Foundation, Sweden, grant number 20170056, [ViaTecH project](https://a.bth.se/viatech-synergy/).
