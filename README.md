@@ -1,7 +1,7 @@
 # SSV360
 A Dataset for Standing and Seated Viewing of 360° Videos on Subjective Quality Assessment
 
-(https://github.com/MajedElwardy/SSV360/blob/master/Standing_PDF_compressed.pdf)
+<img src="https://github.com/MajedElwardy/SSV360/blob/master/Standing_PDF_compressed.pdf" alt="Standing Viewing" width="200">
 (https://github.com/MajedElwardy/SSV360/blob/master/Seated_PDF_compressed.pdf)
 
 ## Abstract
