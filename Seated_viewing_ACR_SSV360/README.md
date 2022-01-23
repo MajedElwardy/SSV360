@@ -4,7 +4,7 @@ All data files provided in these folders are in `.csv` format with additional in
 
 ## Participants order
 
-The participant ordered in the paper in the same order as seated viewing
+The participant ordered in our paper in the same order as the seated viewing as follows:
 
 ```
 P001
