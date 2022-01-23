@@ -8,6 +8,8 @@ The four scenes are as follows:
 	- G4Alcatraz
 	- G9BloomingAppleOrchards	
 	- G10PandaBaseChengdu
+	
+the videos were selected from the publicly available [VQA-ODV](https://github.com/Archer-Tatsu/VQA-ODV) dataset.
 
 ## Information
 
