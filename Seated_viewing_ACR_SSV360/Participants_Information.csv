@@ -1,5 +1,6 @@
-P001,33,FEMALE,0,Academic staff,Use it regularly (weekly or monthly),2
-P002,60,MALE,1,Academic staff,Use it sometimes (few times a year),1
-P003,36,FEMALE,0,Academic staff,Use it sometimes (few times a year),1
-P004,33,MALE,1,PhD,Use it regularly (weekly or monthly),2
-P005,31,MALE,1,PhD,Use it regularly (weekly or monthly),2
+Participant,Age,Gender,Occupation,Experience
+P001,33,FEMALE,Academic staff,Use it regularly (weekly or monthly)
+P002,60,MALE,Academic staff,Use it sometimes (few times a year)
+P003,36,FEMALE,Academic staff,Use it sometimes (few times a year)
+P004,33,MALE,PhD,Use it regularly (weekly or monthly)
+P005,31,MALE,PhD,Use it regularly (weekly or monthly)
