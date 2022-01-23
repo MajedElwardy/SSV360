@@ -2,6 +2,17 @@
 
 All data files provided in these folders are in `.csv` format with additional information on the file structure given in each file.
 
+## Participants order
+
+The participant ordered in the paper in the same order as seated viewing
+
+```
+P001
+P002
+P003
+P004
+P005
+```
   
 ## 1_Data_ACR_MOS
 
