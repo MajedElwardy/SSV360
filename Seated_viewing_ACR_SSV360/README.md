@@ -1,13 +1,8 @@
 # Seated_viewing_ACR_SSV360
 
-All data files provided in these folders are in `.csv` format with additional information on the file structure given in each files.
+All data files provided in these folders are in `.csv` format with additional information on the file structure given in each file.
 
-
-## Participants_Information.csv
-
-This file contains demographic information about the participants, i.e., age, gender, occupation, and level of experience with immersive media.
-
-    
+  
 ## 1_Data_ACR_MOS
 
 * This folder provides the opinion scores and rating times of the scenes for each participant.
@@ -48,5 +43,10 @@ This file contains demographic information about the participants, i.e., age, ge
 
 * The timestamps for each event that occurred during the recording of the data are provided for each participant.
 * Timestamps mark the starting and ending time for each event such as the different components of the subjective test including calibration, video, rating, and SSQs.
+
+## Participants_Information.csv
+
+* This file contains demographic information about the participants, i.e., age, gender, occupation, and level of experience with immersive media.
+
 
 
