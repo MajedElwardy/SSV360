@@ -30,7 +30,7 @@ The videos name contains a sequence of parameters in the following order:
 
 - Example
 ```
-	G2FormationPace_360Video_ERP_2048x1024_10s_29.97fps_crf10_15940k_8bit_H265.mp4
+G2FormationPace_360Video_ERP_2048x1024_10s_29.97fps_crf10_15940k_8bit_H265.mp4
 ```
 
 
