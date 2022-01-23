@@ -4,14 +4,14 @@ This folder contains information regarding the coded test videos, and the instru
 
 ## Information
 
-The download link contains two folders:
+The download link contains two folders (total set of 120 videos):
 
-1- Test_video_S1
+1- Test_video_S1 (total set of 60 videos)
 
 	- G2FormationPace: 30 videos 
 	- G4Alcatraz: 30 videos
 
-2- Test_video_S2
+2- Test_video_S2 (total set of 60 videos)
 
 	- G9BloomingAppleOrchards: 30 videos 
 	- G10PandaBaseChengdu: 30 videos 
