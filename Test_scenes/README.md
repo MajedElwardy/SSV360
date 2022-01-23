@@ -8,8 +8,13 @@ The download link contains two folders:
 
 1- Test_video_S1
 
+	- G2FormationPace: 30 videos 
+	- G4Alcatraz: 30 videos
 
 2- Test_video_S2
+
+	- G9BloomingAppleOrchards: 30 videos 
+	- G10PandaBaseChengdu: 30 videos 
 
 
 ## Input file name
