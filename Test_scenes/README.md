@@ -2,9 +2,15 @@
 
 This folder contains information regarding the coded test videos, and the instructions for the download link of the 120 videos.
 
+The four scenes are as follows:
+	- G2FormationPace
+	- G4Alcatraz
+	- G9BloomingAppleOrchards	
+	- G10PandaBaseChengdu
+
 ## Information
 
-The download link contains two folders (total set of 120 videos):
+The download link contains two folders:
 
 1- Test_video_S1 (total set of 60 videos)
 
