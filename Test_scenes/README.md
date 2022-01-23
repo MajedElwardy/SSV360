@@ -1,6 +1,6 @@
 # Test scenes
 
-This folder contains information regarding the coded reference videos and corresponding test videos, and the instructions for the download link of the 120 videos.
+This folder contains information regarding the coded test videos, and the instructions for the download link of the 120 videos.
 
 ## Information
 
@@ -13,7 +13,7 @@ The download link contains two folders:
 
 
 ## Input file name
-The videos name contains a sequence of parameters in the following order:
+The video name contains a sequence of parameters in the following order:
 
 	Scene 
 	Stimulus
