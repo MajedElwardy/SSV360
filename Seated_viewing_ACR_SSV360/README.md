@@ -30,7 +30,7 @@ All data files provided in these folders are in `.csv` format with additional in
 ## 4_Data_ACR_GSR
 
 * This folder holds the GSR signal recordings using the wireless Shimmer GSR biosensor with the iMotion software which are stored in a file for each participant.
-* An GSR file includes the GSR signal in micro-Siemens ($\mu$S), GSR quality (valid/not-valid), and heart rate (beats/min.).
+* An GSR file includes the GSR signal in micro-Siemens, GSR quality (valid/not-valid), and heart rate (beats/min.).
     
     
 ## 5_Data_ACR_SSQ
