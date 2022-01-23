@@ -2,6 +2,17 @@
 
 All data files provided in these folders are in `.csv` format with additional information on the file structure given in each file.
 
+## Participants order
+
+The participants ordered in our paper in the same order as the seated viewing, to match the order in standing viewing with seated viewing, the following order is needed:
+
+```
+P001 (standing) —is—> Participant 4 (seated)
+P002 (standing) —is—> Participant 2 (seated)
+P003 (standing) —is—> Participant 1 (seated)
+P004 (standing) —is—> Participant 5 (seated)
+P005 (standing) —is—> Participant 3 (seated)
+```
   
 ## 1_Data_ACR_MOS
 
