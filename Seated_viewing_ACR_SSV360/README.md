@@ -7,11 +7,11 @@ All data files provided in these folders are in `.csv` format with additional in
 The participant ordered in our paper in the same order as the seated viewing as follows:
 
 ```
-P001
-P002
-P003
-P004
-P005
+P001 —> Participant 1
+P002 —> Participant 2
+P003 —> Participant 3
+P004 —> Participant 4
+P005 —> Participant 5
 ```
   
 ## 1_Data_ACR_MOS
