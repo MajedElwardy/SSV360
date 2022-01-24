@@ -24,13 +24,13 @@ The columns contain a sequence of parameters in the following order:
 
 * GAZE_L
 
-	- #GAZE
-	- LEFT
-	- TimeStamp (date)
-	- TimeStamp (time)
-	- MediaTime
-	- PupilDiameter
-	- PupilDiameterValidity
+		- #GAZE
+		- LEFT
+		- TimeStamp (date)
+		- TimeStamp (time)
+		- MediaTime
+		- PupilDiameter
+		- PupilDiameterValidity
 	
 * GAZE_R
 
