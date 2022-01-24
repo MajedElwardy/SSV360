@@ -8,8 +8,8 @@ This folder holds the GSR signal recordings using the wireless Shimmer GSR biose
 The columns contain a sequence of parameters in the following order:
 
 	- #GSR GSR
-	-TimeStamp (date)
-	-TimeStamp (time)
+	- TimeStamp (date)
+	- TimeStamp (time)
 	- MediaTime
 	- Timestamp RAW (no units)
 	- Timestamp CAL (mSecs)
