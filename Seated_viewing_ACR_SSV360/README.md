@@ -18,7 +18,6 @@ P005 —> Participant 5
 
 * This folder provides the opinion scores and rating times of the scenes for each participant.
 * Four different `.csv` files are associated with each participant containing the opinion scores and rating times of the 30 videos for each scene.  
-* The order of the opinion scores is kept in the original random order of the sequence of videos as they were shown to the participant during the HMD exposure. 
 * Additional information of the videos for each scene are included as follows: Resolution, QP, duration, frame rate (fps), and bitrate (Mbps).
    
 
