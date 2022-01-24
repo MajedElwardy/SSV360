@@ -9,18 +9,18 @@ The columns contain a sequence of parameters in the following order:
 
 * GAZE_COMBINED
 
-	- #GAZE
-	- COMBINED
-	- TimeStamp (date)
-	- TimeStamp (time)
-	- MediaTime
-	- OriginX
-	- OriginY
-	- OrigionZ
-	- DirectionX
-	- DirectionY
-	- DirectionZ
-	- Validity (true/false)
+		- #GAZE
+		- COMBINED
+		- TimeStamp (date)
+		- TimeStamp (time)
+		- MediaTime
+		- OriginX
+		- OriginY
+		- OrigionZ
+		- DirectionX
+		- DirectionY
+		- DirectionZ
+		- Validity (true/false)
 
 * GAZE_L
 
@@ -34,10 +34,10 @@ The columns contain a sequence of parameters in the following order:
 	
 * GAZE_R
 
-	- #GAZE
-	- RIGHT
-	- TimeStamp (date)
-	- TimeStamp (time)
-	- MediaTime
-	- PupilDiameter
-	- PupilDiameterValidity
+		- #GAZE
+		- RIGHT
+		- TimeStamp (date)
+		- TimeStamp (time)
+		- MediaTime
+		- PupilDiameter
+		- PupilDiameterValidity
