@@ -8,7 +8,7 @@ The scores given by each participant to the 16 symptoms of the SSQ are given in 
 The columns contain a sequence of parameters in the following order:
 
 	- TimeStamp (date)
-	- TimeStamp (t
+	- TimeStamp (time)
 	- MediaTime
 	- Symptoms 
 		1- General discomfort
