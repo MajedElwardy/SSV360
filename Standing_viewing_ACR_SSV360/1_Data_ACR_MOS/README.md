@@ -11,7 +11,7 @@ Four different ```.csv``` files are associated with each participant containing 
 	
 ## File structure 
 
-The columns contains a sequence of parameters in the following order:
+The columns contain a sequence of parameters in the following order:
   
 	- TimeStamp (date)
 	- TimeStamp (time)

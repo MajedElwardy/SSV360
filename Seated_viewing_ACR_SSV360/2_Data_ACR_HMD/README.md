@@ -4,7 +4,7 @@ This folder includes the recordings of the head movements of each participant fo
 	
 ## File structure 
 
-The columns contains a sequence of parameters in the following order:
+The columns contain a sequence of parameters in the following order:
   
 	- TimeStamp (date)
 	- TimeStamp (time)
