@@ -16,7 +16,7 @@ The columns contain a sequence of parameters in the following order:
 		- MediaTime
 		- OriginX
 		- OriginY
-		- OrigionZ
+		- OriginZ
 		- DirectionX
 		- DirectionY
 		- DirectionZ
