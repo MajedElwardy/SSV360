@@ -1,4 +1,4 @@
-#1_Data_ACR_MOS
+# 1_Data_ACR_MOS
 
 This folder provides the opinion scores and rating times of the scenes for each participant.
 
@@ -9,7 +9,7 @@ Four different ```.csv``` files are associated with each participant containing 
 	- G9  —> G9BloomingAppleOrchards	
 	- G10 —> G10PandaBaseChengdu
 	
-# File structure 
+## File structure 
 
 The columns contains a sequence of parameters in the following order:
   
