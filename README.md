@@ -82,9 +82,6 @@ year    = {2021}
 ## Acknowledgements
 This work was funded in part by The Knowledge Foundation, Sweden, grant number 20170056, [ViaTecH project](https://a.bth.se/viatech-synergy/).
 
-We thank all volunteers who generously shared their time to participate in the subjective tests. We thank Tobii Pro for their support and providing the HMD with integrated eye-tracker.
-
-
 ## Contact
 If you have any question about our SSV360 dataset, please use the [public issues section](https://github.com/MajedElwardy/SSV360/issues) on this Github repo. 
 
@@ -93,7 +90,7 @@ Alternatively, contact the authors:
 - Hans-Jürgen Zepernick: hans-jurgen.zepernick@bth.se
 - Yan Hu: yan.hu@bth.se
 
-Please send email in the format as follow:
+Please send email in the format as follows:
 
 > * subject: SSV360
 
