@@ -50,7 +50,7 @@ G2FormationPace_360Video_ERP_2048x1024_10s_29.97fps_crf10_15940k_8bit_H265.mp4
 
 ## Download
 
-Please send email in the format as follow:
+Please send email in the format as follows:
 
 > * SUBJECT: SSV360-TestScenes
 > * TO: majed.elwardy@bth.se
