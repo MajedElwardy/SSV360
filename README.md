@@ -86,7 +86,7 @@ This work was funded in part by The Knowledge Foundation, Sweden, grant number 2
 If you have any question about our SSV360 dataset, please use the [public issues section](https://github.com/MajedElwardy/SSV360/issues) on this Github repo. 
 
 Alternatively, contact the authors:
-- Majed Elwardy : majed.elwardy@bth.se (main author)
+- Majed Elwardy : majed.elwardy@bth.se (co-author)
 - Hans-Jürgen Zepernick: hans-jurgen.zepernick@bth.se
 - Yan Hu: yan.hu@bth.se
 
