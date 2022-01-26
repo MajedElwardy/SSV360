@@ -42,5 +42,5 @@ The columns contain a sequence of parameters in the following order:
 		- Peak amplitude threshold:		0.005 (Delta value)
 	
 	* Binning procedure that adapts to sample timestamps
-		- Bin window size 				5000  (ms)
-		- Bin window overlap				1000  (ms)
+		- Bin window size: 				5000  (ms)
+		- Bin window overlap:				1000  (ms)
