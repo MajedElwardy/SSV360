@@ -48,7 +48,7 @@ To use the SSV360 dataset in published work, please cite the following papers:
 
 - Plain Text (MDPI and ACS Style)
 ```
-text
+Elwardy, M.;  Zepernick, H.-J.; and Hu, Y., “SSV360: A Dataset for Standing and Seated Viewing of 360° Videos on Subjective Quality Assessment,” in Proceedings of IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Christchurch, New Zealand, pp. 1-6, Mar. 2022
 ```
 
 - BibTex
@@ -86,7 +86,7 @@ This work was funded in part by The Knowledge Foundation, Sweden, grant number 2
 If you have any question about our SSV360 dataset, please use the [public issues section](https://github.com/MajedElwardy/SSV360/issues) on this Github repo. 
 
 Alternatively, contact the authors:
-- Majed Elwardy : majed.elwardy@bth.se (co-author)
+- Majed Elwardy : majed.elwardy@bth.se (corresponding author)
 - Hans-Jürgen Zepernick: hans-jurgen.zepernick@bth.se
 - Yan Hu: yan.hu@bth.se
 
