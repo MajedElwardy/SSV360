@@ -53,7 +53,15 @@ Elwardy, M.;  Zepernick, H.-J.; and Hu, Y., “SSV360: A Dataset for Standing an
 
 - BibTex
 ```
-text
+@inproceedings{HU20,
+    	author    = {M. Elwardy, Hans-J\"urgen Zepernick and Y. Hu },
+    	title     = {{SSV360: A Dataset for Standing and Seated Viewing of 360$^{\circ}$ Videos on Subjective Quality Assessment}},
+    	booktitle = {Proc. IEEE Conf. on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)},
+    	address   = {Christchurch, New Zealand},
+	month     = {Mar.},
+    	year      = {2022},
+     	pages     = {1-6}
+}
 ```
 
 2- MDPI Journal article
